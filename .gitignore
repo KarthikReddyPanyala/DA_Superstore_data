@@ -1,0 +1,12 @@
+
+venv/
+ENV/
+env/
+.venv/
+
+data/
+*.csv
+*.xlsx
+*.json
+
+
