@@ -4,7 +4,7 @@ project analyzes Superstore sales data to uncover key business insights.
 ---
 
 ## Dashboard Prview
-#path to png
+![Dashboard Screenshot](./dashboard.png)
 
 ---
 
